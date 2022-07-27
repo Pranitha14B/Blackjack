@@ -1,0 +1,26 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfQq77A8QI88qE3TPBQD1cxnVUyEXla4TUQ&usqp=CAU");
+    background-size: cover;
+}
+
+h1{
+    color: goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+}
+button{
+    color: #013f1d;
+    width: 150px;
+    background-color: goldenrod;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+    border: none;
+    margin: 2px 0px 2px 0px;
+}
